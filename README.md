@@ -6,8 +6,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjaalex&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## OCTOCAT 
-![Meu Octocat](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656
+## TECNOLOGIAS
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
 ## CONTATO
 
